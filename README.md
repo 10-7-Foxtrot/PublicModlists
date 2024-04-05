@@ -4,7 +4,7 @@ Modlists for the 10-7 Foxtrot Arma 3 Gaming Group
 ## Installation
 Instructions are for the client-side mod list but can be followed for any published preset in this repository.
 
-1. Download `10-7 Foxtrot Client-Side.html`
+1. Download the latest [Client-Side Preset](https://github.com/10-7-Foxtrot/mod-presets/releases/download/latest/10-7.Foxtrot.Client-Side.html)
 2. Import the preset
     * From the Arma 3 Launcher, click **MODS** to go to the mods menu
     * Click **PRESET** in the upper-right corner to enter the preset menu
