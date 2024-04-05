@@ -1,4 +1,4 @@
-# PublicModlists
+# 10-7 Foxtrot Mod Presets
 Modlists for the 10-7 Foxtrot Arma 3 Gaming Group
 
 ## Installation
