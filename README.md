@@ -1,5 +1,6 @@
+![10-7 Foxtrot logo](https://i.imgur.com/d905eDj.png)
 # 10-7 Foxtrot Mod Presets
-Modlists for the 10-7 Foxtrot Arma 3 Gaming Group
+Arma 3 mod presets for the 10-7 Foxtrot community servers and events
 
 ## Installation
 Instructions are for the client-side mod list but can be followed for any published preset in this repository.
