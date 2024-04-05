@@ -1,0 +1,68 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Calendar Versioning](https://calver.org/) with a `0Y.0M.0D` versioning scheme.
+
+## [24.04.05]
+
+### Added
+
+- This `CHANGELOG`
+- ACE Vehicle Medical to Client-Side modlist
+- BackpackOnChest - Redux to Client-Side modlist
+- Better Inventory to Client-Side modlist
+- BettIR (Legacy v0.2.1) to Client-Side modlist
+- CH View Distance to Client-Side modlist
+- DUI - Squad Radar to Client-Side modlist
+- Enhanced Movement to Client-Side modlist
+- Fawks' Enhanced NVGs to Client-Side modlist
+- ITN - Illuminate The Night to Client-Side modlist
+- ITN Compat RHS All-in-One to Client-Side modlist
+- MapTools Remastered to Client-Side modlist
+- NFST Grenade Selection Wheel - ACE integrated to Client-Side modlist
+- Reduced Haze Mod v3.1 to Client-Side modlist
+- RHS G33 Magnifier NVG Compatibilty to Client-Side modlist
+- Salmon Headgear Accessories to Client-Side modlist
+- Suppress to Client-Side modlist
+- ZEC - Zeus and Eden Templates / Building Compositions to Client-Side modlist
+- 3CB Factions to Antistasi Plus modlist
+- ace to Antistasi Plus modlist
+- ACE Pharmacy to Antistasi Plus modlist
+- ACRE2 to Antistasi Plus modlist
+- AMF_AIO to Antistasi Plus modlist
+- Antistasi Plus to Antistasi Plus modlist
+- Antistasi Plus VLK Factions to Antistasi Plus modlist
+- CBA_A3 to Antistasi Plus modlist
+- Chinese Armed Forces (2025) to Antistasi Plus modlist
+- Ctab Devastator Edition to Antistasi Plus modlist
+- CUP Terrains - Core to Antistasi Plus modlist
+- CUP Terrains - CWA to Antistasi Plus modlist
+- CUP Terrains - Maps to Antistasi Plus modlist
+- CUP Terrains - Maps 2.0 to Antistasi Plus modlist
+- CUP Units to Antistasi Plus modlist
+- CUP Vehicles to Antistasi Plus modlist
+- CUP Weapons to Antistasi Plus modlist
+- Faction Armee Francaise to Antistasi Plus modlist
+- Jbad to Antistasi Plus modlist
+- LZB PLA to Antistasi Plus modlist
+- Napf Island A3 to Antistasi Plus modlist
+- New Esseker to Antistasi Plus modlist
+- PLA Armored Vehicles Pack to Antistasi Plus modlist
+- RHSAFRF to Antistasi Plus modlist
+- RHSGREF to Antistasi Plus modlist
+- RHSSAF to Antistasi Plus modlist
+- RHSUSAF to Antistasi Plus modlist
+- Sehreno to Antistasi Plus modlist
+- SFP: Swedish Forces Pack to Antistasi Plus modlist
+- Šumava to Antistasi Plus modlist
+- Task Force Timberwolf Female Characters to Antistasi Plus modlist
+- VIDDA | LEGACY VERSION to Antistasi Plus modlist
+- Virolahti - Valtatie 7 to Antistasi Plus modlist
+- VME PLA Mod to Antistasi Plus modlist
+- Zeus Enhanced to Antistasi Plus modlist
+- Zeus Enhanced - ACE3 Compatibility to Antistasi Plus modlist
+
+### Changed
+
+- Update `README.md` with installation/usage instructions and link to the Antistasi Plus dependency loader
